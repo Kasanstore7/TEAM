@@ -125,7 +125,7 @@ Set prefix
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [`Nurutomo`](https://github.com/nurutomi)
 * [`BochilGaming`](https://github.com/bochilgaming)
-* [`TIO`](https://github.com/BOTCAHX) 
+* [`Aine`](https://github.com/Aiinne) 
 * [`MARCEL`](https://github.com/Mshunone) 
 * [`Khasan dev.01`](https://github.com/Kasanstore7) 
 
